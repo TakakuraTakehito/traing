@@ -1,1 +1,6 @@
 hellw world!
+# 6/5 dinner
+- curry
+ - chikin
+ - potepo
+ - tomato
