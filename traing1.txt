@@ -1,4 +1,9 @@
 hellw world!
+# 6/5 dinner
+- curry
+ - chikin
+ - potepo
+ - tomato
 # 6/6 breakfast
 - bread
 - omret
